@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Telegram" Version="1.0.1" />
+    <PackageReference Include="Telegram.Bot" Version="22.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\FlappyBlazorBird.Client\FlappyBlazorBird.Client.csproj" />
   </ItemGroup>
 

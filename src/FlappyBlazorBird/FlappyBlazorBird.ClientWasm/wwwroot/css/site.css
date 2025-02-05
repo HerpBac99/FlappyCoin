@@ -181,6 +181,25 @@ img {
 }
 
 
+/*bitcoin*/
+.bitcoin-upflap {
+    background-image: url("/assets/sprites/bluebird-upflap.png");
+    width: 34px;
+    height: 24px;
+}
+
+.bitcoin-midflap {
+    background-image: url("/assets/sprites/bluebird-midflap.png");
+    width: 34px;
+    height: 24px;
+}
+
+.bitcoin-downflap {
+    background-image: url("/assets/sprites/bluebird-downflap.png");
+    width: 34px;
+    height: 24px;
+}
+
 /* bird */
 .redbird-upflap {
     background-image: url("/assets/sprites/redbird-upflap.png");

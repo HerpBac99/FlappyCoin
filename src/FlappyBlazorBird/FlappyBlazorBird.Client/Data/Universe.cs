@@ -253,6 +253,13 @@ namespace FlappyBlazorBird.Client.Data
         //list of all possible players (tuple of 3 positions of flap)
         public static string[][] PLAYERS_LIST = new []
         {
+            new []
+            {
+                "bitcoin-upflap",
+                "bitcoin-midflap",
+                "bitcoin-downflap"
+            },
+
             // red bird
             new []
             {

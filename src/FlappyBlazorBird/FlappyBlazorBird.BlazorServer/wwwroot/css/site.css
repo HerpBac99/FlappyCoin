@@ -185,6 +185,24 @@ img {
     font-family: "Monospace";
 }
 
+/*bitcoin*/
+.bitcoin-upflap {
+    background-image: url("/assets/sprites/bitcoin-upflap.png");
+    width: 34px;
+    height: 34px;
+}
+
+.bitcoin-midflap {
+    background-image: url("/assets/sprites/bitcoin-midflap.png");
+    width: 34px;
+    height: 34px;
+}
+
+.bitcoin-downflap {
+    background-image: url("/assets/sprites/bitcoin-downflap.png");
+    width: 34px;
+    height: 34px;
+}
 
 /* bird */
 .redbird-upflap {
