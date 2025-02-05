@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FlappyBlazorBird.BlazorServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:12050;http://localhost:12051;https://192.168.1.146:12050;http://192.168.1.146:12051"
+    }
+  }
+}
